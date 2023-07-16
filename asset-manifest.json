@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d3e268a.css",
+    "main.js": "/static/js/main.f86c9474.js",
+    "static/media/GPROJECT.jpg": "/static/media/GPROJECT.713bedcec490ece3ec7c.jpg",
+    "static/media/OWNPROJECT.jpg": "/static/media/OWNPROJECT.4d2a003e2f88f016b447.jpg",
+    "static/media/aws.png": "/static/media/aws.67a15fc54ddaf3fc7e2f.png",
+    "static/media/css.ico": "/static/media/css.7207d83584fd579a8e97.ico",
+    "static/media/html.png": "/static/media/html.60e11a869b9ff552a13a.png",
+    "static/media/tailwind.config.png": "/static/media/tailwind.config.c9051c66aba927b5dd68.png",
+    "static/media/JS.png": "/static/media/JS.ca691704283b1badf98c.png",
+    "static/media/java.ico": "/static/media/java.06dfe1574f137102158e.ico",
+    "static/media/Flask.png": "/static/media/Flask.51e56af91ebfea5b6250.png",
+    "static/media/NodeJS.png": "/static/media/NodeJS.32b4df364397b856dc89.png",
+    "static/media/py.png": "/static/media/py.448fb2a83595fa5c5c8a.png",
+    "static/media/MySQL.png": "/static/media/MySQL.5bf2b384c4ccea98170d.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.c07bdfba2d59a25de123395a75965fd9.svg",
+    "index.html": "/index.html",
+    "main.8d3e268a.css.map": "/static/css/main.8d3e268a.css.map",
+    "main.f86c9474.js.map": "/static/js/main.f86c9474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3e268a.css",
+    "static/js/main.f86c9474.js"
+  ]
+}
