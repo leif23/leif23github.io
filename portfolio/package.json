@@ -20,6 +20,7 @@
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "homepage": "https://leif23github.io/my-app",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
